@@ -31,4 +31,7 @@ Current live [static page.](https://www.foodonate.org/)
 
 # New Page Landing Page Demo
 
-![Video Demo]()
+![Video Demo](demo.gif)
+
+
+#### For project details or private repo access, please contact Makhmud Islamov or any Foodonate team member
