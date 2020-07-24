@@ -29,7 +29,7 @@ During July of 2020, Foodonate is collaborating with Lyft to launch their fully 
 
 Current live [static page.](https://www.foodonate.org/)
 
-# New Page Landing Page Demo
+# New Page Landing Page Demo Gif
 
 ![Video Demo](demo.gif)
 
