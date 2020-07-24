@@ -31,4 +31,4 @@ Current live [static page.](https://www.foodonate.org/)
 
 # New Page Landing Page Demo
 
-![Video Demo](demo.mov)
+![Video Demo]()
