@@ -16,7 +16,7 @@ During July of 2020, Foodonate is collaborating with Lyft to launch their fully 
 
 - Mentor from Lyft: Scott Lau
 
-- Project Manager: Makhmud Islamov, Sebastian Abarca
+- Project Manager: Makhmud Islamov
 - Front End: Anisha Jain, Makhmud Islamov
 - Design: Emily Lin, Jorge Calixto
 - Back End: Sebastian Abarca, Vladislav Nykoliuk
@@ -27,6 +27,8 @@ During July of 2020, Foodonate is collaborating with Lyft to launch their fully 
 - Back End: Django, Twilio API
 - Design: Figma, Draw.io
 
+## Watch 5 minute [video presentation](https://drive.google.com/file/d/1yUaxJyiz1741I2hAUekKgNCSsJaWHzKB/view?usp=sharing)
+
 Current live [static page.](https://www.foodonate.org/)
 
 # New Page Landing Page Demo Gif
@@ -34,4 +36,4 @@ Current live [static page.](https://www.foodonate.org/)
 ![Video Demo](demo.gif)
 
 
-#### For project details or private repo access, please contact Makhmud Islamov or any Foodonate team member
+#### For project details or private repo access, please contact via [LinkedIn](https://www.linkedin.com/in/m-sunnatovich/)
