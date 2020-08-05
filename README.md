@@ -1,5 +1,6 @@
-# Foodonate Demo
+# FOODONATE Demo
 
+![logo](logo.png)
 ## About
 Foodonate was founded in the San Francisco Bay Area, California by a group of friends. We are passionate about making a positive impact in our society. After observing so much food go to waste after working in the food industry, we couldn’t help but to try and work together to develop solutions to solve the hunger issue in our communities.
 
