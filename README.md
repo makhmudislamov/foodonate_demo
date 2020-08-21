@@ -10,7 +10,7 @@ During July of 2020, Foodonate is collaborating with Lyft to launch their fully 
 
 - User authorization & authentication for 3 types of users
 - CRUD
-- food delivery logistics and communication among the users
+- Food delivery logistics and communication among the users
 - Dashboard for the users
 
 ## Team:
