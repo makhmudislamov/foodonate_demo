@@ -17,7 +17,7 @@ During July of 2020, Foodonate is collaborating with Lyft to launch their fully 
 
 - Mentor from Lyft: Scott Lau
 
-- Project Manager: Makhmud Islamov
+- Product Manager: Makhmud Islamov
 - Front End: Anisha Jain, Makhmud Islamov
 - Design: Emily Lin, Jorge Calixto
 - Back End: Sebastian Abarca, Vladislav Nykoliuk
